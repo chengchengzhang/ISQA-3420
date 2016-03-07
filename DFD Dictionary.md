@@ -1,5 +1,5 @@
 #Data Flow Diagram Dictionary
-Corporate Developer- Internal developer to the company <\br>
+Corporate Developer- Internal developer to the company \s\s
 File- File being sent to NIST for vulnerability scan
 Package- Package being sent to NIST for vulnerability scan
 Code scan- The process that organize files or packages being sent to NIST to be scanned for vulnerabilities
