@@ -11,6 +11,17 @@ Trigger: Code check in <br>
 
 ##Use Case Number 2
 Title: Corporate manager compares policy to risk database<br>
+Primary Actor: Corporate Manager <br>
+Goal in Context: Compare corporate policy to vulnerability information<br>
+Stakeholders: Developer / Manager <br>
+Preconditions: The scan from NIST database is put in the risk database and the policy <br>
+information is current<br>
+Main Success Scenario: The project vulnerabilities complies with the corporate policy and the <br>
+project is able to move forward<br>
+Failed End Conditions: The vulnerabilities do not meet corporate policy<br>
+The vulnerability scan has not been done yet<br>
+Trigger: Code scan returned<br>
+
 
 ##Use Case Number 3
 Title: Corporate developer accesses risk database<br>
