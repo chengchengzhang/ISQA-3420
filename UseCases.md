@@ -10,7 +10,7 @@ Failed End Conditions: Developer is unable to check in code. Checked in code is 
 Trigger: Code check in <br>
 
 ##Use Case Number 2
-Title: Corporate manager reviews policy<br>
+Title: Corporate manager compares policy to risk database<br>
 
 ##Use Case Number 3
 Title: Corporate developer accesses risk database<br>
