@@ -25,5 +25,12 @@ Policy Info Response - Allows the manager get policy info from Policy DB through
 Set Policy - The process that organize managers’ edition of policies for project vulnerabilities thresholds <br>
 Policy DB- The database which houses the policies for project vulnerabilities thresholds <br>
 Request Data- The process of the corporate developer accessing the Risk Database <br>
+Compare risk info and policy- Process, compare the risk information and policy to see if they are match with each other <br>
+Request risk info - information, Compare risk info and policy process request risk info from risk database. <br>
+Risk Info response - information, the risk info response to compare risk info and policy. <br>
+Request Policy - information, Compare risk info and policy process request policy information <br>
+Policy response - information, policy info to Compare risk info and policy process <br>
+Manifest info management - process, manage the manifest information <br>
+info downstream- information, manifest info downstream to manager and developmers. <br>
 Request Info – The request for risk code from corporate developer <br>
 Info Response – The response of risk code to corporate developer <br>
