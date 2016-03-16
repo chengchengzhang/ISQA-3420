@@ -25,3 +25,5 @@ Trigger: Code scan returned<br>
 
 ##Use Case Number 3
 Title: Corporate developer accesses risk database<br>
+Primary Actor: Corporate developer<br>
+Goal in Context: 
