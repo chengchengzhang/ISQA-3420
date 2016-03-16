@@ -27,3 +27,4 @@ Trigger: Code scan returned<br>
 Title: Corporate developer accesses risk database<br>
 Primary Actor: Corporate developer<br>
 Goal in Context: Allow corporate developer to access the risk database <br> 
+Stakeholders: Developer/Manager <br>
