@@ -1,24 +1,24 @@
-#Software Manifest
+#Software Manifest<br>
 
-## Name of Project:
-External Code Collaboration Project
+## Name of Project:<br>
+External Code Collaboration Project<br>
 
-## Name of Packages:
-External Code
-Internal Code
+## Name of Packages:<br>
+External Code<br>
+Internal Code<br>
 
-##Document Information
-This is the software manifest for the external source collaboration project.
+##Document Information<br>
+This is the software manifest for the external source collaboration project.<br>
 
-###Date/Author:
-3.22.16/Paul Naumann
+###Date/Author:<br>
+3.22.16/Paul Naumann<br>
 
 
-##Project Information
-###Name/ Submitter 
-External source collaboration project/ Chengcheng Zhang
+##Project Information:<br>
+###Name/ Submitter <br>
+External source collaboration project/ Chengcheng Zhang<br>
 
-##Package Information:
-###Name/CVE
-External/CVE-2012-2864
-Internal/CVE-2012-3290
+##Package Information:<br>
+###Name/CVE<br>
+External/CVE-2012-2864<br>
+Internal/CVE-2012-3290<br>
