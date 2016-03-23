@@ -28,3 +28,7 @@ Title: Corporate developer accesses risk database<br>
 Primary Actor: Corporate developer<br>
 Goal in Context: Allow corporate developer to access the risk database <br> 
 Stakeholders: Developer/Manager <br>
+Preconditions: Risk database must be set up, risk database must be current<br>
+Main Success Scenario: The manager is able to access the risk database<br>
+Failed End Conditions:  Risk database is not set up<br>
+Trigger: Code scan returned<br>
