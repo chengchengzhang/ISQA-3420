@@ -29,10 +29,12 @@ Compare risk info and policy- Process, compare the risk information and policy t
 Request risk info - information, Compare risk info and policy process request risk info from risk database. <br>
 Risk Info response - information, the risk info response to compare risk info and policy. <br>
 Request Policy - information, Compare risk info and policy process request policy information <br>
+Menifest info - information, corporate manageer requests manifest information from the manifest information management process.<br>
+Comparision Responses - information, the information comparision information come from compare risk info and policy process to set policy process. <br> 
 Policy response - information, policy info to Compare risk info and policy process <br>
 Manifest info management - process, manage the manifest information <br>
 info downstream- information, manifest info downstream to manager and developmers. <br>
 Request Info – The request for risk code from corporate developer <br>
 Info Response – The response of risk code to corporate developer <br>
-Manifest Info - Corporate Manager request manifest information from the Manifest information management process.<br>
+
 
