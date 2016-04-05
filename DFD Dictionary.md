@@ -34,3 +34,5 @@ Manifest info management - process, manage the manifest information <br>
 info downstream- information, manifest info downstream to manager and developmers. <br>
 Request Info – The request for risk code from corporate developer <br>
 Info Response – The response of risk code to corporate developer <br>
+Manifest Info - Corporate Manager request manifest information from the Manifest information management process.<br>
+
