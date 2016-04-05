@@ -26,7 +26,7 @@ Set Policy - The process that organize managers’ edition of policies for proje
 Policy DB- The database which houses the policies for project vulnerabilities thresholds <br>
 Request Data- The process of the corporate developer accessing the Risk Database <br>
 Compare risk info and policy- Process, compare the risk information and policy to see if they are match with each other <br>
-Request risk info - information, Compare risk info and policy process request risk info from risk database. <br>
+Risk info request - information, Compare risk info and policy process request risk info from risk database. <br>
 Risk Info response - information, the risk info response to compare risk info and policy. <br>
 Request Policy - information, Compare risk info and policy process request policy information <br>
 Menifest info - information, corporate manageer requests manifest information from the manifest information management process.<br>
