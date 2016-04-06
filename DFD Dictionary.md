@@ -72,6 +72,15 @@ Corporate Developer- Internal developer to the company <br>
 Corporate Manager- Internal, to the company, Manager which sees over a specific project <br>
 National Vulnerability Database- NIST database that contains all known vulnerabilities, where CPE information comes from <br>
 
+##Processes
+Code scan- The process that organize files or packages being sent to NIST to be scanned for vulnerabilities <br>
+Compare risk info and policy- Process, compare the risk information and policy to see if they are match with each other<br>
+Manage Project Information- Manages the information of a project, allows the manager to access the risk DB <br>
+Manage CPE Information – Process, manage CPE information every day (daily job). 
+Project (vulnerabilities, CPE information etc.) <br>
+Manifest info management - process, manage the manifest information <br>
+Package Information- Information, which contains the NIST vulnerabilities data, about a package being sent to the risk DB <br>
+Request Data- The process of the corporate developer accessing the Risk Database <br>
 
 
 
