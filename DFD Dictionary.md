@@ -62,6 +62,11 @@ Risk info request - information, Compare risk info and policy process request ri
 Risk Info response - information, the risk info response to compare risk info and policy. <br>
 Set Policy - The process that organize managers’ edition of policies for project vulnerabilities thresholds <br>
 
+##Data stores <br>
+NIST CPE Information - Database, which contains the NIST vulnerabilities data, about a CPE being sent to the risk DB <br>
+Risk Database – Database, store the risk code with vulnerability returned from the NIST CPE scanner <br>
+Policy DB- The database which houses the policies for project vulnerabilities thresholds <br>
+
 
 
 
