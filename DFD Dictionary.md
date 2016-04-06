@@ -67,6 +67,12 @@ NIST CPE Information - Database, which contains the NIST vulnerabilities data, a
 Risk Database – Database, store the risk code with vulnerability returned from the NIST CPE scanner <br>
 Policy DB- The database which houses the policies for project vulnerabilities thresholds <br>
 
+##Entities<br>
+Corporate Developer- Internal developer to the company <br>
+Corporate Manager- Internal, to the company, Manager which sees over a specific project <br>
+National Vulnerability Database- NIST database that contains all known vulnerabilities, where CPE information comes from <br>
+
+
 
 
 
