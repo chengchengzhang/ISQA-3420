@@ -1,29 +1,27 @@
 #Data Flow Diagram Dictionary
 
 ##Data Flows<br>
-Comparision Responses - information, the information comparision information come from compare risk info and policy process to set policy process. 
+
 CPE File- File of CPE information being sent from NIST Vulnerability Database <br>
-CPE Information- Information being returned from NIST with the vulnerability information in it
 CPE Request- The request for CPE information from the National Vulnerability Database <br>
 CPE Response- The response of CPE from the National Vulnerability Database <br>
-Edit Policy- Allows the manager to set and edit the policy in Policy DB <br>
-File- File being sent to NIST for vulnerability scan <br>
-Info downstream- information, manifest info downstream to manager and developers.<br> 
-Info Response – The response of risk code to corporate developer <br>
-Manifest info - information, corporate manageer requests manifest information from the manifest information management process.<br>
-Package- Package being sent to NIST for vulnerability scan <br> 
-Package Info Request - Information, the request from manager for risk code information from Risk DB<br> 
-Package Info Response – Information, the risk code info response from Risk DB <br>
 Package Query- The request for your package to be scanned in the NIST database <br>
-Policy Info Response - Allows the manager get policy info from Policy DB through the set policy process <br>
-Policy response - information, policy info to Compare risk info and policy process <br>
-Project Info Request- The request for project info from the Risk DB, (vulnerabilities, CPE information etc.) <br>
-Project Info Response- The response to Project Info Request that contains information on a specific <br>
-Request Info – The request for risk code from corporate developer <br>
-Request Policy - information, Compare risk info and policy process request policy information <br>
+CPE Info- Information being returned from NIST with the vulnerability information in it.<br>
+Package- Package being sent to NIST for vulnerability scan <br> 
+File- File being sent to NIST for vulnerability scan <br>
 Risk info request - information, Compare risk info and policy process request risk info from risk database. <br>
 Risk Info response - information, the risk info response to compare risk info and policy. <br>
-Set Policy - The process that organize managers’ edition of policies for project vulnerabilities thresholds <br>
+Package Info Request - Information, the request from manager for risk code information from Risk DB<br> 
+Package Info Response – Information, the risk code info response from Risk DB <br>
+Project Info Request- The request for project info from the Risk DB, (vulnerabilities, CPE information etc.) <br>
+Project Info Response- The response to Project Info Request that contains information on a specific <br>
+Project Info - Allows the manager to send project Information to Create Manifest process. <br>
+Project Info - Allows the manager to send project Information to Check against Policy process. <br>
+Against Policy Info Response - Against policy information back to manager from Check against Policy process.<br>
+Policy Info Request - information, request of policy information from check against Policy process. <br> 
+Policy Info Response - Allows the manager get policy info from Policy DB through the Check against Policy process <br>
+Manifest Information- information, manifest info downstream to downstream people such as customors.<br> 
+
 
 ##Data stores <br>
 NIST CPE Information - Database, which contains the NIST vulnerabilities data, about a CPE being sent to the risk DB <br>
@@ -34,16 +32,17 @@ Policy DB- The database which houses the policies for project vulnerabilities th
 Corporate Developer- Internal developer to the company <br>
 Corporate Manager- Internal, to the company, Manager which sees over a specific project <br>
 National Vulnerability Database- NIST database that contains all known vulnerabilities, where CPE information comes from <br>
+Downstream People - External, this entity recieves manifest information from internal corporate manager. <br>
 
 ##Processes
 Code scan- The process that organize files or packages being sent to NIST to be scanned for vulnerabilities <br>
-Compare risk info and policy- Process, compare the risk information and policy to see if they are match with each other<br>
-Manage Project Information- Manages the information of a project, allows the manager to access the risk DB <br>
-Manage CPE Information – Process, manage CPE information every day (daily job). 
-Project (vulnerabilities, CPE information etc.) <br>
-Manifest info management - process, manage the manifest information <br>
-Package Information- Information, which contains the NIST vulnerabilities data, about a package being sent to the risk DB <br>
 Request Data- The process of the corporate developer accessing the Risk Database <br>
+Manage CPE Information – Process, manage CPE information every day (daily job). 
+Manage Project Info- Manages the information of a project, allows the manager to access the risk DB <br>
+Check against Policy- process, that get project information from manager and check against policy. <br>
+Create Manifest - process, create the manifest information <br>
+
+
 
 
 
